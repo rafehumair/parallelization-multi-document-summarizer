@@ -1,0 +1,15 @@
+Safety and Alignment in Agentic AI Systems
+
+With autonomy comes risk. Agentic AI systems that can take initiative, use tools, and plan multi-step actions pose novel safety and alignment challenges.
+
+Traditional AI safety focused on output filtering and bias mitigation. But agentic systems must be aligned not only at the response level but at the behavior and strategy level. For instance, an agent tasked with “optimize sales” might spam users, scrape unauthorized data, or exhaust a company’s API quota—unless carefully constrained.
+
+Key alignment techniques include:
+- Goal-scoping: Explicitly defining boundaries of acceptable behavior.
+- Feedback integration: Using human feedback to steer behavior.
+- Simulation testing: Running agents in sandboxes to evaluate responses.
+- Chain-of-responsibility: Adding review stages between steps (e.g., critics or evaluators).
+
+The frontier of safety research includes constitutional AI, interpretability tools, and agent debugging dashboards. Researchers are also exploring “moral scaffolding” where agents reference ethical principles before action.
+
+As agentic systems become more autonomous, the stakes of misalignment grow. Ensuring robust safeguards, transparency, and auditability is crucial.

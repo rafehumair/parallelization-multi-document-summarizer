@@ -1,0 +1,11 @@
+Applications of Agentic AI: From Personal Assistants to Autonomous Research
+
+Agentic AI is being applied across industries—from consumer tools to scientific research.
+
+In personal productivity, tools like AI agents for email triage, meeting scheduling, and inbox management have gained traction. These agents don’t just respond—they take initiative by suggesting actions, drafting replies, and flagging anomalies. In coding, agents like GPT Engineer and Code Interpreter act as intelligent pair programmers capable of writing, debugging, and testing code autonomously.
+
+In enterprise settings, agentic systems are used for market research, competitive analysis, and even automated customer service escalation. Agents can monitor news, scrape data, and assemble reports—all without continuous prompting.
+
+One of the most transformative use cases is in scientific discovery. AI agents can read and summarize hundreds of research papers, identify gaps in knowledge, and even propose new hypotheses. Projects like Semantic Scholar’s AI assistant and Microsoft’s AutoGen aim to build autonomous research collaborators.
+
+However, these benefits come with challenges: how to maintain transparency in agent behavior, how to debug decision paths, and how to ensure security when granting access to external tools or data.
